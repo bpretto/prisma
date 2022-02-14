@@ -24,7 +24,8 @@ export class CreateClientUseCase {
         
         const client = await prisma.clients.create({
             data: {
-                username, password: hashPassword
+                username,
+                password: hashPassword
             }
         });
 
