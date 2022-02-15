@@ -10,6 +10,7 @@ This project is a simple demonstration of the backend of a delivery system, with
 4. Create a database for the project;
 5. Create a .env file using the included .env.example as basis;
 6. Type "yarn dev" on the terminal and press enter;
+7. Use Insomnia or Postman to access the routes of the project.
 
 ## That's it! You may now test my project!
 
