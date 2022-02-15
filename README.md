@@ -16,6 +16,7 @@ This project is a simple demonstration of the backend of a delivery system, with
 If you have any doubts or want to contact me, feel free to do so!
 
 You can reach me on: 
-1. Instagram: @bdgpretto
+[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/bdgpretto/)](https://instagram.com/bdgpretto/)
+
 2. E-mail: bernardo@pretto.dev
 
