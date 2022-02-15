@@ -13,3 +13,7 @@ This project is a simple demonstration of the backend of a delivery system, with
 
 ## That's it! You may now test my project!
 
+If you have any doubts or want to contact me, feel free to do so!
+
+![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bernardo@pretto.dev)
+
