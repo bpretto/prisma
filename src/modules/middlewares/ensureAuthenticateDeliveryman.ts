@@ -20,7 +20,7 @@ export async function ensureAuthenticateClient(request: Request, response: Respo
     const [,token] = authHeader.split(" ")
     
     try {
-        const { sub } = verify(token, auth.client_secret) as IPayload;
+        const { sub } = verify(token, auth.deliveryman_secret) as IPayload;
 
         request.id_client = sub;
 
